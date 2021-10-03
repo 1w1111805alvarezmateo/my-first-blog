@@ -26,7 +26,8 @@ SECRET_KEY = 'p&ud$#n)k)6jo0icb)7#j9-986ot$24uj)z)5(9v*$63d8f@-!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'danimate.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'danimate.pythonanywhere.com', 'danielmateo.pythonanywhere.com']
+
 
 LOGIN_REDIRECT_URL='/'
 LOGOUT_REDIRECT_URL='/'
